@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KolomietsNikita
-- 👀 /play sexyback
+/play sexyback
 .
 
 <!---
